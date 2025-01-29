@@ -1,0 +1,12 @@
+# Ignore compiled files
+target/
+*.class
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore Maven build files
+.mvn/
+mvnw
+mvnw.cmd
